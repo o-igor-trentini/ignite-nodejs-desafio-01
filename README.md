@@ -18,7 +18,7 @@ Este projeto é o primeiro do módulo de NodeJS 2022.
 Clone este repositório com:
 
 ```shell
-git clone git@github.com:o-igor-trentini/ignite-nodejs-fundamentos.git
+git clone git@github.com:o-igor-trentini/ignite-nodejs-desafio-01.git
 ```
 
 Use o [npm][] para instalar as dependências:
