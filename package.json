@@ -1,5 +1,5 @@
 {
-  "name": "ignite-nodejs-fundamentos",
+  "name": "ignite-nodejs-desafio-01",
   "version": "1.0.0",
   "description": "",
   "type": "module",
@@ -9,5 +9,8 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.5.2"
+  }
 }
